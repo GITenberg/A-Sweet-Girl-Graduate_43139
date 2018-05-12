@@ -1,0 +1,48 @@
+_repo: A-Sweet-Girl-Graduate_43139
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ludlow, Hal
+    birthdate: 1861
+    gutenberg_agent_id: '42038'
+    url: http://www.gutenberg.org/2009/agents/42038
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Mead, L. T.
+    - Meade, Lillie
+    - Meade, Mrs. L. T.
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Elizabeth Thomasina
+    - Thomas, Elizabeth
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Social status -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'College students -- Juvenile fiction'
+title: A Sweet Girl Graduate
+url: http://www.gutenberg.org/ebooks/43139
